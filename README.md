@@ -1,3 +1,5 @@
+
+
 # Claude Code × ServiceNow SDK — Demo App
 
 This repository demonstrates how to use **Claude Code** with the **ServiceNow SDK (now-sdk)** to build production-ready ServiceNow applications from natural language — no manual metadata authoring required.
@@ -30,7 +32,7 @@ Everything you need to replicate this with Claude Code on your own ServiceNow pr
 | [`Tutorial instructions and skills/SKILL.md`](./Tutorial%20instructions%20and%20skills/SKILL.md) | **Claude Code skill** — drop this into `~/.claude/skills/` to give Claude full ServiceNow SDK knowledge |
 | [`Tutorial instructions and skills/fluent-patterns.md`](./Tutorial%20instructions%20and%20skills/fluent-patterns.md) | Full Fluent DSL reference: Tables, Flows, Business Rules, Script Includes, ACLs, Records |
 | [`Tutorial instructions and skills/flow-advanced.md`](./Tutorial%20instructions%20and%20skills/flow-advanced.md) | Advanced Flow patterns: subflows, loops, parallel blocks, error handling |
-| [`Tutorial instructions and skills/market_research_email_sample.html`](./Tutorial%20instructions%20and%20skills/market_research_email_sample.html) | Sample inbound email used to test the demo app |
+| [`market_research_email_sample.html`](./Market%20research%20Usecase/market_research_email_sample.html) | Sample inbound email used to test the demo app |
 | [`Tutorial instructions and skills/Claude-Code-ServiceNow-SDK-Tutorial.docx`](./Tutorial%20instructions%20and%20skills/Claude-Code-ServiceNow-SDK-Tutorial.docx) | Step-by-step tutorial document |
 | [`Tutorial instructions and skills/Market-Research-Email-Parser-UseCase.docx`](./Tutorial%20instructions%20and%20skills/Market-Research-Email-Parser-UseCase.docx) | Use case write-up for the demo scenario |
 
